@@ -1,4 +1,7 @@
 .page {
-    width: 1920px;
-    height: 2400px;
+    width: 100%;
+    max-width: 1920px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
